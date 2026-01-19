@@ -48,7 +48,7 @@ def show_stats():
     jahre = [g['jahr'] for g in game_library]
     durchschnitt_jahr = sum(jahre) / anzahl
     
-    print(f"\n--- Statistiken ---")
+    print(f"\n----Statistiken----")
     print(f"Gesamtanzahl der Spiele: {anzahl}")
     print(f"Durchschnittliches Erscheinungsjahr: {int(durchschnitt_jahr)}")
 
