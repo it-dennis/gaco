@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Frogger",
+        "system": "Atari VCS (2600)",
+        "medium": "Cartridge",
+        "jahr": 1982,
+        "kommentar": "Original System vorhanden"
+    },
+    {
+        "name": "Super Mario Land",
+        "system": "Gameboy",
+        "medium": "Cartridge",
+        "jahr": 1989,
+        "kommentar": ""
+    },
+    {
+        "name": "Tetris",
+        "system": "Gameboy",
+        "medium": "Cartridge",
+        "jahr": 1989,
+        "kommentar": ""
+    }
+]
