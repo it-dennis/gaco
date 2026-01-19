@@ -9,16 +9,17 @@
 - 💾 Local database to keep your collection private.
 - 🕹️ Support for multiple retro platforms.
 
-## Installation
+## 🤝 Kontakt & Zusammenarbeit
 
-1. Clone the repository:
+Vielen Dank für dein Interesse an **gaco**! Dieses Projekt wird aktiv entwickelt und ich bin immer offen für spannende Kooperationen, technisches Feedback oder geschäftliche Anfragen.
 
-```bash
-git clone https://github.com
-```
+* **Zusammenarbeit:** Du hast eine Idee, wie wir dieses Projekt gemeinsam groß machen können? Schreib mir!
+* **Business:** Wenn du an einer kommerziellen Lizenzierung oder individuellen Anpassungen interessiert bist, melde dich gerne.
 
-Es beginnt.....
+### So erreichst du mich:
+- **E-Mail:** [info@dennisrapp.com](mailto:info@dennisrapp.com)
+- **LinkedIn:** [d-rapp](https://www.linkedin.com/in/d-rapp/)
+- **GitHub:** [it-dennis](https://github.com/it-dennis)
 
-git add .
-
-git commit -m "Erste Änderung, es beginnt!"
+---
+*Hinweis: Dieses Projekt steht unter einer proprietären Lizenz. Jegliche Nutzung ohne vorherige Genehmigung ist untersagt.*
