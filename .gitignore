@@ -1,0 +1,23 @@
+```gitignore
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Database files (if you use SQLite locally)
+*.sqlite3
+*.db
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
